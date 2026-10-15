@@ -5,5 +5,6 @@ Bedrock 1.21.90+ Or use 1.21.90 for no bugs if you use recent version you may se
 
 
 
-You can talk this pack and then edit it whatever you want your free to do everything you want
-Just credit the Githug Page 
+
+You can use all of this project and modify it withouth even giving credit :) 
+Its mine its your
